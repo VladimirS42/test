@@ -18,7 +18,7 @@
         <working-time lang="ru">ежедн. 10:00-23:00</working-time>
         <rubric-id>184108327</rubric-id>
         <rubric-id>184106418</rubric-id>
-        <feature-boolean name="Gift Certificate" value="1"/>
+        <feature-boolean name="gift_certificate" value="1"/>
         <actualization-date>03.10.2023</actualization-date>
         <coordinates>
             <lon>56.509793</lon>
@@ -47,7 +47,7 @@
         <rubric-id>184107419</rubric-id>
         <rubric-id>32562640747</rubric-id>
         <rubric-id>184107603</rubric-id>
-        <feature-boolean name="Geodetic works" value="1"/>
+        <feature-boolean name="geodetic_works" value="1"/>
         <actualization-date>03.10.2023</actualization-date>
         <coordinates>
             <lon>56.325260</lon>
