@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+    <company>
+        <company-id>0000001</company-id>
+        <name lang="ru">Клюк-Ва</name>
+        <shortname lang="ru">Клюк-Ва</shortname>
+        <address lang="ru">город Томск, улица 79-й Гвардейской Дивизии, 12/3</address>
+        <country lang="ru">Россия</country>
+        <address-add lang="ru">Цокольный этаж</address-add>
+        <phone>
+            <number>+7 (993) 399-36-57</number>
+            <type>phone</type>
+        </phone>
+        <url>http://klukva.tomsk.ru</url>
+        <add-url>https://viber.click/79528944807</add-url>
+        <add-url>https://vk.com/klykvadeti</add-url>
+        <add-url>https://wa.me/79526814432</add-url>
+        <working-time lang="ru">ежедн. 10:00-23:00</working-time>
+        <rubric-id>184108327</rubric-id>
+        <rubric-id>184106418</rubric-id>
+        <feature-boolean name="Gift Certificate" value="1"/>
+        <actualization-date>03.10.2023</actualization-date>
+        <coordinates>
+            <lon>56.509793</lon>
+            <lat>84.977301</lat>
+        </coordinates>
+    </company>
+    <company>
+        <company-id>0000002</company-id>
+        <name lang="ru">Нижегородский центр инженерных изысканий</name>
+        <shortname lang="ru">НЦИИ</shortname>
+        <address lang="ru">город Нижний Новгород, улица Совнаркомовская, 38</address>
+        <country lang="ru">Россия</country>
+        <phone>
+            <number>+7 (831) 282-99-15</number>
+            <type>phone</type>
+        </phone>
+        <phone>
+            <number>+7 (929) 053-99-15</number>
+            <type>phone</type>
+        </phone>
+        <url>http://www.ncii-nnov.com</url>
+        <add-url>http://vk.com/ncii_nnov</add-url>
+        <add-url>https://viber.click/79290539915</add-url>
+        <add-url>https://wa.me/79290539915</add-url>
+        <working-time lang="ru">пн-чт 08:00-12:00 13:00-17:00, пт 08:00-12:00 13:00-16:00</working-time>
+        <rubric-id>184107419</rubric-id>
+        <rubric-id>32562640747</rubric-id>
+        <rubric-id>184107603</rubric-id>
+        <feature-boolean name="Geodetic works" value="1"/>
+        <actualization-date>03.10.2023</actualization-date>
+        <coordinates>
+            <lon>56.325260</lon>
+            <lat>43.956110</lat>
+        </coordinates>
+    </company>
+    <company>
+        <company-id>0000003</company-id>
+        <name lang="ru">Берёзка</name>
+        <shortname lang="ru">Берёзка</shortname>
+        <address lang="ru">город Москва, улица Курганская, 9, а</address>
+        <country lang="ru">Россия</country>
+        <phone>
+            <type>phone</type>
+            <number>+7 (965) 295-88-00</number>
+            <info>доставка шашлыков</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (965) 294-88-00</number>
+            <info>доставка шашлыков</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (495) 645-09-82</number>
+            <info>доставка шашлыков</info>
+        </phone>
+        <phone>
+            <type>phone</type>
+            <number>+7 (495) 770-89-74</number>
+            <info>доставка шашлыков</info>
+        </phone>
+        <url>https://cafe-berezka.ru/</url>
+        <working-time lang="ru">ежедн. 11:00-00:00</working-time>
+        <rubric-id>184106390</rubric-id>
+        <feature-text-single value="prices" name="above_average"/>
+        <feature-in-units-single name="average_score" unit="money"  unit-value="rub"  value="1500"/>
+        <feature-boolean name="food_delivery" value="1"/>
+        <feature-boolean name="payment_by_card" value="1"/>
+        <feature-boolean name="wi-fi" value="1"/>
+        <feature-boolean name="coffee_to_go" value="1"/>
+        <feature-boolean name="breakfast" value="1"/>
+        <feature-boolean name="pre-order_online" value="1"/>
+        <feature-text-single value="delivery_types" name="own_courier_service"/>
+        <feature-text-multiple value="payment_method" name="cash" name_add="card_payment"/>
+        <feature-text-single value="types_of_non-cash" name="noncoins"/>
+        <feature-boolean name="summer_terrace" value="1"/>
+        <feature-boolean name="craft_beer" value="1"/>
+        <feature-boolean name="sports_broadcasts" value="1"/>
+        <feature-boolean name="parking_for_people_with_disabilities" value="1"/>
+        <feature-boolean name="staff_call_button" value="1"/>
+        <actualization-date>03.10.2023</actualization-date>
+        <coordinates>
+            <lon>55.830054</lon>
+            <lat>37.811723</lat>
+        </coordinates>
+    </company>
+</companies>
